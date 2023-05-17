@@ -21,16 +21,7 @@ let questions = [
     answer: 3
   },
   {
-    question:
-      "Was bedeutet der Bescheid? Andere Bedeutung außer informieren/informiert sein",
-    choice1: "terrassenartiger, von der Straße her über eine Treppe zugänglicher Vorbau",
-    choice2: "dafür sorgen, dass jemand etwas, was er nötig braucht, bekommt",
-    choice3: "behördliche Stellungnahme",
-    choice4: "",
-    answer: 3
-  },
-  {
-    question: " Was ist eie Lapalie?",
+    question: "Was ist eie Lapalie?",
     choice1: "unbedeutende Sache",
     choice2: "durch Granulieren gewonnene Körner",
     choice3: "Strauch mit sehr früh im Frühjahr erscheinenden großen, weißen Büten",
@@ -38,7 +29,7 @@ let questions = [
     answer: 1
   },
     {
-    question: " Was ist ein Obulus (der Obulus)",
+    question: "Was ist ein Obulus (der Obulus)",
     choice1: "ein geschnittener und bildverzierter Schmuckstein",
     choice2: "oft kunstvoll gearbeitetes offenes Gefäß",
     choice3: "Gott der Künste, der Weissagung, der Verbannten und der Vertriebenen",
@@ -46,7 +37,7 @@ let questions = [
     answer: 4
   },
       {
-    question: " Was ist ein Renomee (das Renommee)",
+    question: "Was ist ein Renomee (das Renommee)",
     choice1: "in ganzer Höhe des Bauwerks vorspringender Gebäudeteil",
     choice2: "das Ansehen, Anerkennung, der gute Ruf",
     choice3: "unschöpferische Nachbildung",
@@ -54,7 +45,7 @@ let questions = [
     answer: 2
   },
   {
-    question: " Was ist ein Stegreif, im Redewendung: etwas aus dem Stegreif machen? ",
+    question: "Was ist ein Stegreif, im Redewendung: etwas aus dem Stegreif machen? ",
     choice1: "Vorgehensweise, bei der schon ein kleiner Fehler großes Unheil auslösen kann",
     choice2: "anhaltendes Schwanken in verschiedene Richtungen",
     choice3: "etwas ohne Vorbereitung machen, improvisieren",
@@ -62,7 +53,7 @@ let questions = [
     answer: 3
   },
         {
-    question: " Was ist der Trotz ?",
+    question: "Was ist der Trotz ?",
     choice1: "etwas, was jemanden in seinem Leid, seiner Niedergeschlagenheit aufrichtet",
     choice2: "Zug von gemeinsam sich irgendwohin begebenden Personen",
     choice3: "hartnäckiger [eigensinniger] Widerstand gegen eine Autorität aus dem Gefühl heraus, im Recht zu sein",
@@ -70,7 +61,7 @@ let questions = [
     answer: 3
   },
             {
-    question: " Was ist der Antrieb?",
+    question: "Was ist der Antrieb?",
     choice1: "das Ansehen, die Anerkennung",
     choice2: "charakteristische Eigenschaft, Wesensmerkmal",
     choice3: "Anreiz, Impuls",
@@ -78,7 +69,7 @@ let questions = [
     answer: 3
   },
                 {
-    question: " Was ist der Bruchteil?",
+    question: "Was ist der Bruchteil?",
     choice1: "das Beteiligtsein;  Teilnahme",
     choice2: "verhältnismäßig kleiner Teil von etwas",
     choice3: "in ganzer Höhe des Bauwerks vorspringender Gebäudeteil",
@@ -86,7 +77,7 @@ let questions = [
     answer: 2
   },
                 {
-    question: " Was ist das Unterfangen?",
+    question: "Was ist das Unterfangen?",
     choice1: "Gebäude für Sträflinge, die verurteilt sind",
     choice2: "Das Erdreich, das durch Ausheben einer Baugrube entsteht",
     choice3: "Wagnis, (kühnes) Unternehmen",
@@ -94,7 +85,7 @@ let questions = [
     answer: 3
   },
             {
-    question: " Was ist die Unmenge?",
+    question: "Was ist die Unmenge?",
     choice1: "übergroße, sehr große Menge",
     choice2: "unwichtige, nebensächliche Sache, Kleinigkeit",
     choice3: "Einkommenshöhe, unterhalb deren keine Sozialversicherungsbeiträge erhoben werden",
@@ -111,7 +102,7 @@ let questions = [
     answer: 3
   },
    {
-    question: " Was ist die Urkunde?",
+    question: "Was ist die Urkunde?",
     choice1: "Geografie, besonders als Schulfach",
     choice2: "Schriftstück, durch das etwas beglaubigt oder bestätigt wird; Dokument mit Rechtskraft",
     choice3: "ein besonders in Pflanzen verbreitetes Enzym",
@@ -121,7 +112,7 @@ let questions = [
             
                  {
     question: " Was ist die Nachlässigkeit?",
-    choice1: "",
+    choice1: "längere Zeit anhaltende Wirkung",
     choice2: "lässige [Lebens]art; lässiges Wesen",
     choice3: "eine Zusammenwirkung zwischen Menschen, die auf gegenseitiger Bereitschaft zu helfen, beruht",
     choice4: "an einem entstandenen Schaden schuldig oder mitschuldig zu sein",
